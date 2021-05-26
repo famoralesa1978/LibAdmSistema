@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClsConector.cs" />
+    <Compile Include="ClsDirectorios.cs" />
+    <Compile Include="ClsErrores.cs" />
     <Compile Include="ClsUtilidades.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
