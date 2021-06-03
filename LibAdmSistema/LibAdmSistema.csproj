@@ -44,12 +44,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClsConector.cs" />
-<<<<<<< HEAD
-    <Compile Include="clsSqlComun.cs" />
-=======
     <Compile Include="ClsDirectorios.cs" />
     <Compile Include="ClsErrores.cs" />
->>>>>>> 71bca010f1b80da279a6a42f20e8158a87d4c5ad
+    <Compile Include="clsSqlComun.cs" />
     <Compile Include="ClsUtilidades.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
