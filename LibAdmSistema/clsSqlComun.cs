@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Libreria
 {
-	class clsSqlComun
+	public class clsSqlComun
 	{
 
 		LibAdmSistema.ClsConector Conectar = new LibAdmSistema.ClsConector();
@@ -610,7 +610,5 @@ namespace Libreria
 			return bolValidar;
 
 		}
-
-
 	}
 }
